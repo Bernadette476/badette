@@ -4,4 +4,4 @@ Make changes to branch1 update
 
 Make changes to branch2 update
 
-I got also the update thanks
+I got also the update thanks 
